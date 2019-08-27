@@ -1,0 +1,6 @@
+owner=507277298320277514
+prefix=g!
+game=g!play | by NiNjAaa
+stayinchannel=true
+songinstatus=false
+token=NjE1OTU0MDQxOTg5NDk2OTAw.XWViFw.g7IxypqJEiujlAw71hvE9SZb7vw
